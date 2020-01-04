@@ -1,5 +1,5 @@
 # vue-cli-demo
 a vue-cli-demo
 
-# npm install
-# npm run serve
+npm install
+npm run serve
